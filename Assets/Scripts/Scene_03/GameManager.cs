@@ -24,7 +24,7 @@ namespace Scene_03
             }
         }
 
-        // Submanager de eventos
+        // Manager encargado de gestionar los eventos de la aplicación
         public EventsManager EventsManager;
     }
 }
